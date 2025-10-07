@@ -30,3 +30,16 @@ figcaption {
 figure img {
    width: 800px;
 }
+
+.contato__subtitulo {
+   display: online;
+}
+.contato__info {
+   margin-top: 16px 0 24px;
+   padding-left: 32px;
+}
+
+.contato__info-titulo,
+.contato__info-descricao {
+   display: online;
+}
